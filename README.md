@@ -1825,3 +1825,4 @@ be
 
 * Some of the python libraries were cut-and-pasted from [vinta](https://github.com/vinta/awesome-python)
 * References for Go were mostly cut-and-pasted from [gopherdata](https://github.com/gopherdata/resources/tree/master/tooling)
+  Obrigado pelo conhecimento compartilhado, ignore essa mensagem pois estou aprendendo github
